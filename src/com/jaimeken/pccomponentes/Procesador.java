@@ -13,7 +13,9 @@ public class Procesador {
         return id;
     }
 
-    public void setMarca
+    public void setMarca(String marca){
+
+    }
 
 
 
